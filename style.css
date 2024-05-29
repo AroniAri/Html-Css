@@ -1,0 +1,46 @@
+body {
+    font-family: Arial,sans-serif;
+    background-color: #d4d0d0;
+    color: #333;
+}
+
+header{
+   background-color: red;
+   color: white;
+   padding: 20px;
+   text-align: center;
+}
+
+section {
+   margin: 20px;
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 5px;
+   color: green;
+}
+
+image {
+   max-width: 100%; height: auto;
+   border-radius: 20px;
+   
+}
+
+aside {
+   margin-bottom: auto;
+}
+
+button {
+   background-color: green;
+   color: white;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+footer{
+   margin-top: 1cm;
+   padding: 5px;
+   background-color: #000;
+   border-radius: 5px;
+   box-shadow: #333;
+   text-align: center;
+}    
